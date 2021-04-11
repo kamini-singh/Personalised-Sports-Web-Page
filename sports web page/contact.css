@@ -1,0 +1,77 @@
+
+    #logo{
+        width:7%;
+        height:95%;
+        margin-top: 3.5px;
+        margin-left: 7px;
+        }
+       
+h1{
+     font-size:50px;
+     text-align: center;
+     
+  }
+  nav a:link, a:visited {
+    background-color:rgb(219, 219, 243);
+    color: black;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+nav{
+    background-color:#0c1a32;
+    height:70px;
+}
+    nav ul{
+        float:right;
+        margin-right:20px;
+     
+        padding:-20px;
+    }
+     nav ul li{
+         display: inline-block;
+         line-height: 0px;
+         text-align: center;
+     }    
+     
+footer {
+    height: 50px;
+    background-color:#0c1a32 ;
+    
+}
+
+footer ul{
+    float:right;
+    margin-right:20px;
+    
+}
+ footer ul li{
+     display: inline-block;
+     margin-top:-2px;
+ }
+ footer img{
+    border-radius:5px;
+    height:30px;
+    width:40px;
+    margin-bottom:5px;
+    padding-left:10px;
+   padding-right:10px;
+} 
+span{
+    margin-top:10px;
+    color:white;
+  
+}
+*{
+    font-family: cursive;
+}
+.contact
+{
+    background-image:url("https://justcallbudget.com/wp-content/uploads/2015/09/social-media-background.jpg");
+    text-align: center;
+}
+
+
+
+   

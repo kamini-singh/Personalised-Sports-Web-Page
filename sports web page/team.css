@@ -1,0 +1,106 @@
+#logo{
+    width:7%;
+    height:95%;
+    margin-top: 3.5px;
+    margin-left: 7px;
+    }
+    nav a:link, a:visited {
+        background-color:rgb(219, 219, 243);
+        color: black;
+        padding: 15px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+    }
+    nav{
+        background-color: #0c1a32 ;
+        height:70px;
+    }
+    nav ul{
+        float:right;
+        margin-right:20px;
+        
+        padding:-20px;
+    }
+     nav ul li{
+         display: inline-block;
+         line-height: 0px;
+         
+     }
+     
+footer {
+    height: 50px;
+    background-color: #0c1a32;
+    
+}
+
+footer ul{
+    float:right;
+    margin-right:20px;
+
+}
+ footer li{
+     display: inline-block;
+     margin-top:-2px;
+     
+ }
+ 
+ footer img{
+    border-radius:5px;
+    height:30px;
+    width:40px;
+    margin-bottom:5px;
+    padding-left:10px;
+    padding-right:10px;
+} 
+
+span{
+    margin-top:10px;
+    color: white;
+}
+
+.content img{
+    height:300px;
+    width:300px;
+    border-radius: 50px;
+}
+.players1 {
+    float: right;
+    display:inline;
+    width:70%;
+    margin-right:30px;
+    margin-top:20px;
+
+  
+}
+.players2 {
+    float:left;
+    display:inline;
+    width: 70%;
+    margin-left:0px;
+    margin-top:20px;
+    margin-right:10px;
+  
+}
+.content p{
+    background-color:lightblue;
+}
+.content li{
+    font-size:30px;
+}
+*{
+    font-family: cursive;
+  
+}
+p{
+    border:2px solid navy;
+    padding:5px;
+}
+ .content ul{
+text-align:center;
+list-style-type:none;
+   }
+h4{
+    font-family:"Calibri" ;
+    text-align: center;
+}

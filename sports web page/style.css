@@ -1,0 +1,138 @@
+#logo{
+    width:7%;
+    height:95%;
+    margin-top: 3.5px;
+    margin-left: 7px;
+    }
+    nav a:link, a:visited {
+        background-color:rgb(219, 219, 243);
+        color: black;
+        padding: 15px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+    }
+    nav{
+        background-color: #0c1a32 ;
+        height:70px;
+    }
+    nav ul{
+        float:right;
+        margin-right:20px;
+         padding:-30px;
+
+    }
+     nav ul li{
+         display: inline-block;
+         line-height: 0px;
+         
+     }
+     
+footer {
+    height: 50px;
+    background-color: #0c1a32;
+    
+}
+
+footer ul{
+    float:right;
+    margin-right:20px;
+
+}
+ footer ul li{
+     display: inline-block;
+     margin-top:-2px;
+     color:white;
+ }
+span{
+    margin-top:10px;
+    color: white;
+
+}
+ 
+
+ 
+
+     
+     
+
+#main-heading{
+    
+ font-family:"Broadway";
+    font-size:40px;
+    text-align: center;
+    border: 2px solid;
+    padding: 10px;
+    }
+
+    p, li{
+   
+    font-family:cursive;
+    font-size: 17px;
+    }
+
+
+.main{
+     text-align:justify;
+     
+}
+#first-img{
+    height:500px;
+    width:1140px;
+    border-radius:20px;
+    margin-left:50px;
+}
+ .equipment {
+    height:200px;
+    width:200px;
+    border-radius:20px;
+    margin-left:17px;
+    
+}
+
+.equip li {
+    font-size: 20px;
+    color:navy;
+}
+
+.e1 {
+    float: right;
+    display:inline;
+    width: 50%;
+    margin-top:80px;
+    margin-right:300px;
+  font-size: 17px;
+}
+
+h2, h3{
+    font-family:cursive;
+
+}
+
+#video1, h4{
+    margin-left:25%;
+    font-size:17px;
+}
+
+footer img{
+      border-radius:5px;
+      height:30px;
+      width:40px;
+      margin-bottom:5px;
+      padding-left:10px;
+     padding-right:10px;
+  } 
+
+body {
+    
+    background-color:#d4dfee;
+   margin-left:15px;
+   margin-right:15px;
+    word-spacing:2.5px;
+    letter-spacing:0.7px;
+}
+
+
+
+
+    

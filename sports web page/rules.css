@@ -1,0 +1,88 @@
+#logo{
+    width:7%;
+    height:95%;
+    margin-top: 3.5px;
+    margin-left: 7px;
+    }
+    nav a:link, a:visited {
+        background-color:rgb(219, 219, 243);
+        color: black;
+        padding: 15px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+    }
+
+    nav{
+        background-color: #0c1a32 ;
+        height:70px;
+    }
+    nav ul{
+        float:right;
+        margin-right:20px;
+        
+    }
+     nav ul li{
+         display: inline-block;
+         line-height: 0px;
+         
+     }
+     
+footer {
+    height: 50px;
+    background-color: #0c1a32;
+    
+}
+
+footer ul{
+    float:right;
+    margin-right:20px;
+
+}
+ footer ul li{
+     display: inline-block;
+     margin-top:-2px;
+     color:white;
+ }
+span{
+    margin-top:10px;
+    color: white;
+
+}
+ 
+     footer img{
+        border-radius:5px;
+        height:30px;
+        width:40px;
+        margin-bottom:5px;
+        padding-left:10px;
+        padding-right:10px;
+    } 
+     
+     #ground{
+       margin-left:15%;
+         height:400px;
+         width:800px;
+     }
+  
+   #rulevideo{
+       margin-left:25%;
+   }
+   
+
+     *{
+         font-family: cursive;
+        
+        word-spacing:2.5px;
+        letter-spacing:0.7px;
+       
+     }
+     body{
+        background-color:#d4dfee;
+     }
+     h1, h4{
+         text-align: center;
+         
+
+     }
+    
